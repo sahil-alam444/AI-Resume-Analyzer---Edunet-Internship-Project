@@ -30,8 +30,8 @@ Build a machine learning model that can:
 
 ### 1. Clone this Repository
 ```bash
-git clone https://github.com/sahil-alam444/ai-resume-analyzer.git
-cd ai-resume-analyzer
+git clone https://github.com/sahil-alam444/AI-Resume-Analyzer---Edunet-Internship-Project.git
+cd AI-Resume-Analyzer---Edunet-Internship-Project
 ```
 
 ### 2. Install Required Libraries
